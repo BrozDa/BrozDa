@@ -19,11 +19,11 @@ I am enhancing my understanding of data structures and algorithms while also stu
 **LeetCode & CodeWars** – Small-format exercises to improve problem-solving skills and strengthen algorithmic thinking.
 
 ## Featured Projects:
-### [Console Habit Logger](https://github.com/BrozDa/STUDY.SnakeGame)
+### [Console Habit Logger](https://github.com/BrozDa/CodeReviews.Console.HabitTracker)
 
 Tracks habits using a SQLite database. Includes CRUD functionality and error handling.
 
-### [Snake Game](https://github.com/BrozDa/CodeReviews.Console.HabitTracker)
+### [Snake Game](https://github.com/BrozDa/STUDY.SnakeGame)
 Classic Snake game with an interactive menu, smooth movement, and dynamic gameplay features.
 <!---
 BrozDa/BrozDa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
