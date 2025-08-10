@@ -6,25 +6,30 @@ Originally, I started learning coding to enhance my networking skills. However, 
 
 ## Tech Stack & Skills
 * Algorithms and Data Structures
-* C#
-* .NET
+* C#, .NET, ASP .NET Core, EF Core
+* Visual Studio, Swagger, Postman, Papercut
 * Git & GitHub
-* Visual Studio
 
 ## Currently learning
-I am enhancing my understanding of data structures and algorithms while also studying software design, clean code principles, object-oriented programming, and best practices in software development.
-
-## Learning Resources
-**The C# Academy** – A community-driven project focused on learning by building projects which shows importance of learning by writing, planning ahead, making scalable and maintainble code.
-**LeetCode & CodeWars** – Small-format exercises to improve problem-solving skills and strengthen algorithmic thinking.
+After establishing (by my opinion) a solid base I started focusing on system design and design patterns to help me while designing future projects.
 
 ## Featured Projects:
-### [Console Habit Logger](https://github.com/BrozDa/CodeReviews.Console.HabitTracker)
+### [Taskify](https://github.com/BrozDa/Taskify)
 
-Tracks habits using a SQLite database. Includes CRUD functionality and error handling.
+A full-stack task management application built with ASP.NET Core Web API and React. The app includes JWT-based authentication, allowing users to securely create, edit, complete, and delete tasks with priorities, due dates, and custom tags. Data persistence is handled through EF Core with relational modeling. The UI is styled with Tailwind and tested for responsiveness across devices. 
 
-### [Snake Game](https://github.com/BrozDa/STUDY.SnakeGame)
-Classic Snake game with an interactive menu, smooth movement, and dynamic gameplay features.
+### [Inventory-Order-Tracking-API](https://github.com/BrozDa/Inventory-Order-Tracking-API)
+An ASP.NET Core Web API simulating an order management system. The API manages JWT based authentication with refresh keys, products, orders, and audit logs with role based access, user email verification and stock validation. Data persistence is handled through EF Core with relational modeling. The API was tested using unit tests, mocks, and manual checks with Postman.
+
+## Other smaller projects:
+### [ShoppingList](https://github.com/BrozDa/CodeReviews.React.ShoppingList)
+A lightweight full-stack application allowing to track a shopping list - adding, removing, marking items. Build with ASP .NET Core Backend and React + Tailwind responsive front end.
+
+### [ExcelReader](https://github.com/BrozDa/CodeReviews.Console.ExcelReader)
+A console app allowing  reading data from an .xlsx or .csv file, storing the content in a database, and exporting the data back to an .xlsx or .csv file.
+
+### [SportsResults](https://github.com/BrozDa/CodeReviews.Console.SportsResults)
+A console app allowing scraping data from website and sending them via an email.
 <!---
 BrozDa/BrozDa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
